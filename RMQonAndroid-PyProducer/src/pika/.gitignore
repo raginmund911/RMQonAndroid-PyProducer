@@ -1,0 +1,12 @@
+/__init__.pyc
+/amqp_object.pyc
+/callback.pyc
+/channel.pyc
+/connection.pyc
+/credentials.pyc
+/data.pyc
+/exceptions.pyc
+/frame.pyc
+/heartbeat.pyc
+/spec.pyc
+/utils.pyc

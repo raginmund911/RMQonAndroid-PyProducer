@@ -1,0 +1,7 @@
+/__init__.pyc
+/asyncore_connection.pyc
+/base_connection.pyc
+/blocking_connection.pyc
+/select_connection.pyc
+/tornado_connection.pyc
+/twisted_connection.pyc
